@@ -1,0 +1,97 @@
+﻿<Window
+    x:Class="GUI.MainNavigationWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GUI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <NavigationView
+        x:Name="MainNavigation"
+        PaneDisplayMode="LeftCompact"
+        IsPaneToggleButtonVisible="True"
+        IsSettingsVisible="False"
+        IsBackButtonVisible="Collapsed"
+        CompactPaneLength="80"
+        Loaded="MainNavigation_Loaded"
+        SelectionChanged="MainNavigation_SelectionChanged">
+
+        <NavigationView.Resources>
+            <Style TargetType="NavigationViewItem">
+                <!--<Setter Property="Height" Value="90"/>
+                <Setter Property="Width" Value="90"/>-->
+            </Style>
+        </NavigationView.Resources>
+
+        <NavigationView.MenuItems>
+            <NavigationViewItem Tag="HomePage" Icon="Add">
+                <StackPanel
+                    Orientation="Horizontal">
+                    <Image Source="/Assets/MainNavigation/HomePage.svg" Height="70" Width="70" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock 
+                        Text="HomePage"
+                        FontSize="20"
+                        VerticalAlignment="Center"/>
+                </StackPanel>
+            </NavigationViewItem>
+
+            <NavigationViewItem Tag="SessionControl">
+                <StackPanel
+                    Orientation="Horizontal">
+                    <Image Source="/Assets/MainNavigation/SessionControl.svg" Height="70" Width="70" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock
+                        Text="Session Control"
+                        FontSize="20"
+                        VerticalAlignment="Center"/>
+                </StackPanel>
+            </NavigationViewItem>
+
+            <NavigationViewItem Tag="ControlCenter">
+                <StackPanel
+                    Orientation="Horizontal">
+                    <Image Source="/Assets/MainNavigation/ControlCenter.svg" Height="70" Width="70" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock 
+                        Text="Control Center"
+                        FontSize="20"
+                        VerticalAlignment="Center"/>
+                </StackPanel>
+            </NavigationViewItem>
+
+            <NavigationViewItem Tag="Sensorview">
+                <StackPanel
+                    Orientation="Horizontal">
+                    <Image Source="/Assets/MainNavigation/SensorView.svg" Height="70" Width="70" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock 
+                        Text="Sensorview"
+                        FontSize="20"
+                        VerticalAlignment="Center"/>
+                </StackPanel>
+            </NavigationViewItem>
+
+            <NavigationViewItem Tag="Chart">
+                <StackPanel
+                    Orientation="Horizontal">
+                    <Image Source="/Assets/MainNavigation/Chart.svg" Height="70" Width="70" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock 
+                        Text="Chart"
+                        FontSize="20"
+                        VerticalAlignment="Center"/>
+                </StackPanel>
+            </NavigationViewItem>
+
+            <NavigationViewItem Tag="Statistics">
+                <StackPanel
+                    Orientation="Horizontal">
+                    <Image Source="/Assets/MainNavigation/Statestic.svg" Height="70" Width="70" Margin="5" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    <TextBlock 
+                        Text="Statistics"
+                        FontSize="20"
+                        VerticalAlignment="Center"/>
+                </StackPanel>
+            </NavigationViewItem>
+        </NavigationView.MenuItems>
+        
+        <Frame x:Name="ContentFrame"/>
+    </NavigationView>
+</Window>

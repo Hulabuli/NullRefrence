@@ -1,0 +1,72 @@
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\SampleCore.deps.json
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\SampleCore.dll
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\ref\SampleCore.dll
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\SampleCore.pdb
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\CoMCU_Interface.dll
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\Common.dll
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\MemoryBlocks.dll
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\Utility.dll
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\CoMCU_Interface.pdb
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\Common.pdb
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\MemoryBlocks.pdb
+C:\Software_Projects\EVP2G_App\SampleCore\bin\Debug\net6.0\Utility.pdb
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.csproj.AssemblyReference.cache
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfoInputs.cache
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfo.cs
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CoreCompileInputs.cache
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CopyComplete
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.dll
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\ref\SampleCore.dll
+C:\Software_Projects\EVP2G_App\SampleCore\obj\Debug\net6.0\SampleCore.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.deps.json
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\ref\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Common.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Utility.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Common.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Utility.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.AssemblyReference.cache
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfoInputs.cache
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfo.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CoreCompileInputs.cache
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CopyComplete
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\ref\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.deps.json
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.dll
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Common.dll
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Utility.dll
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Common.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Utility.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.AssemblyReference.cache
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfoInputs.cache
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfo.cs
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CoreCompileInputs.cache
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CopyComplete
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.dll
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\refint\SampleCore.dll
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\SampleCore\obj\Debug\net6.0\ref\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.deps.json
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\ref\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\SampleCore.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Common.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Utility.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Common.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\bin\Debug\net6.0\Utility.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.AssemblyReference.cache
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfoInputs.cache
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.AssemblyInfo.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CoreCompileInputs.cache
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.csproj.CopyComplete
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\ref\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\SampleCore\obj\Debug\net6.0\SampleCore.pdb

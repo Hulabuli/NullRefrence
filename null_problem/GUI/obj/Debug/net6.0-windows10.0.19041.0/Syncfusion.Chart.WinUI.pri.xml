@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Syncfusion.Chart.WinUI" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Syncfusion.Chart.WinUI">
+				<ResourceMapSubtree name="ChartAxis">
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="ChartAxis.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/ChartAxis/Themes/ChartAxis.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="ChartSeries">
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="ChartSeries.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/ChartSeries/Themes/ChartSeries.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Generic.Legend.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/ChartSeries/Themes/Generic.Legend.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Generic.Symbol.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/ChartSeries/Themes/Generic.Symbol.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="TrackballAndDragging.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/ChartSeries/Themes/TrackballAndDragging.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Controls">
+					<ResourceMapSubtree name="Themes">
+						<NamedResource name="ChartToolBar.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Controls/Themes/ChartToolBar.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="ResizableScrollBar.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Controls/Themes/ResizableScrollBar.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Resizer.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Controls/Themes/Resizer.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="generic.common.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Themes/generic.common.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="generic.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Themes/generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="themeresources.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Themes/themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="Chart">
+						<NamedResource name="sfchart.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Themes/Chart/sfchart.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ChartAxis">
+						<NamedResource name="chartaxis.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Themes/ChartAxis/chartaxis.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="ChartSeries">
+						<NamedResource name="chartseries.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Chart.WinUI/Themes/ChartSeries/chartseries.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Syncfusion.Core.WinUI">
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Common.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Core.WinUI/Themes/Common.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="TextButton.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Core.WinUI/Themes/TextButton.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<ResourceMapSubtree name="DensityStyles">
+						<NamedResource name="Compact.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Core.WinUI/Themes/DensityStyles/Compact.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+						<NamedResource name="Standard.xbf" uri="ms-resource://Syncfusion.Chart.WinUI/Files/Syncfusion.Core.WinUI/Themes/DensityStyles/Standard.xbf">
+							<Candidate type="EmbeddedData">
+								<Base64Value>[Embedded Binary Data]</Base64Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Syncfusion.Chart.WinUI">
+			<ResourceMapSubtree name="Syncfusion.Chart.WinUI">
+				<NamedResource name="AxisIncompatibleExceptionMessage" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/AxisIncompatibleExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>axis is not compatible with the axis of</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BoxSelectionZoom" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/BoxSelectionZoom">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>BoxSelection Zoom</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Close" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Close">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Decrease" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Decrease">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decrease</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FileName" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/FileName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>untitled</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="High" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/High">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>High</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Histogram" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Histogram">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Histogram</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Increase" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Increase">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Increase</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Low" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Low">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Low</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LowerLine" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/LowerLine">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Lower Line</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MACD" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/MACD">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>MACD</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Maximum" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Maximum">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Maximum</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Median" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Median">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Median</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Minimum" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Minimum">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Minimum</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Open" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Open">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Open</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Others" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Others">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Others</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Pan" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Pan">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Pan</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PeriodLine" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/PeriodLine">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Period Line</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PrintErrorMessage" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/PrintErrorMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Sorry printing can't be proceeded at this time due internal printing error. Please Try again.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PrintingExceptionMessage" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/PrintingExceptionMessage">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Element must be rendered, and must have a parent in order to print.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Q" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Q">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Q</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Q1" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Q1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Q1</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Q3" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Q3">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Q3</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Quarter" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Quarter">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Quarter</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Reset" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Reset">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Reset</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SignalLine" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/SignalLine">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Signal Line</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Size" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Size">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Size</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Total" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Total">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Total</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="UpperLine" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/UpperLine">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Upper Line</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="W" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/W">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>W</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Week" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Week">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Week</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="YValue" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/YValue">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>YValue</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ZoomIn" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/ZoomIn">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Zoom In</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ZoomOut" uri="ms-resource://Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/Syncfusion.Chart.WinUI/ZoomOut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Zoom Out</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

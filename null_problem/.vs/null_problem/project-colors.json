@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5e44c0a6-a9a4-4054-9d25-864ca93ae2e7": {
+      "ProjectGuid": "5e44c0a6-a9a4-4054-9d25-864ca93ae2e7",
+      "DisplayName": "null_problem",
+      "ColorIndex": 0
+    },
+    "bc1de496-26f1-4f6c-a773-87c8c19c23a5": {
+      "ProjectGuid": "bc1de496-26f1-4f6c-a773-87c8c19c23a5",
+      "DisplayName": "GUI",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a623e0c8-4e61-4f67-b320-0092c6199c1d": {
+      "ProjectGuid": "a623e0c8-4e61-4f67-b320-0092c6199c1d",
+      "DisplayName": "SampleCore",
+      "ColorIndex": 2
+    },
+    "1747f452-2c04-4746-8939-3c8ee5bf6ecd": {
+      "ProjectGuid": "1747f452-2c04-4746-8939-3c8ee5bf6ecd",
+      "DisplayName": "Patches",
+      "ColorIndex": 3
+    },
+    "4d9a256a-0be4-4fb6-81a7-825419d8610b": {
+      "ProjectGuid": "4d9a256a-0be4-4fb6-81a7-825419d8610b",
+      "DisplayName": "Common",
+      "ColorIndex": 4
+    },
+    "7105a0f9-95aa-405d-9f41-51002549a225": {
+      "ProjectGuid": "7105a0f9-95aa-405d-9f41-51002549a225",
+      "DisplayName": "Utility",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

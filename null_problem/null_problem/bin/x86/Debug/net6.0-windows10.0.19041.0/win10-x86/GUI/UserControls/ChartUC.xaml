@@ -1,0 +1,27 @@
+﻿<UserControl
+    x:Class="GUI.UserControls.ChartUC"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GUI.UserControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:chart="using:Syncfusion.UI.Xaml.Charts"
+    xmlns:usercontrols="using:GUI.ViewModels.UserControls"
+    mc:Ignorable="d"
+    d:DataContext="{d:DesignInstance usercontrols:ChartUCViewModel}">
+
+    <chart:SfCartesianChart
+        Series="{Binding ChartModel.SeriesCollection}"
+        PrimaryAxis="{Binding ChartModel.PrimaryAxis}">
+
+        <chart:SfCartesianChart.Behaviors>
+            <chart:ChartZoomPanBehavior
+                EnablePinchZooming="True"
+                ZoomMode="XY"
+                EnableSelectionZooming="False"/>
+        </chart:SfCartesianChart.Behaviors>
+        
+    </chart:SfCartesianChart>
+    
+</UserControl>
+

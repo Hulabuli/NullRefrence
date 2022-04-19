@@ -1,0 +1,10 @@
+GUI\MainNavigationWindow.xbf
+GUI\Pages\ChartPage.xbf
+GUI\Pages\ControlCenterPage.xbf
+GUI\Pages\GroupStatisticsPage.xbf
+GUI\Pages\HomePage.xbf
+GUI\Pages\SensorValuePage.xbf
+GUI\Pages\SessionControl\AdvancedSessionPage.xbf
+GUI\Pages\SessionControlPage.xbf
+GUI\UserControls\ChannelBlockUC.xbf
+GUI\UserControls\ChartUC.xbf

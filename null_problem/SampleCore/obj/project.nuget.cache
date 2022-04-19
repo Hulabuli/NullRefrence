@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4JzxpmcxjfHMR7SXqNFqVrPsV4rx02qxME9OInYpQVudbH7mgNL4CfijtYGHaddEbadvfMqwRbJYbLga5TEmkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BBE\\Desktop\\Null problem2\\Null problem\\null_problem\\SampleCore\\SampleCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BBE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

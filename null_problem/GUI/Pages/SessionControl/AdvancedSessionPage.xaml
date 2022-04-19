@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="GUI.Pages.SessionControl.AdvancedSessionPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GUI.Pages.SessionControl"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:viewmodel="using:GUI.ViewModels.SessionControl"
+    xmlns:editors="using:Syncfusion.UI.Xaml.Editors"
+    d:DataContext="{d:DesignInstance Type=viewmodel:AdvancedSessionViewModel}"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <StackPanel>
+        <TextBlock Text="AdvancedSession"/>
+        
+        <StackPanel
+            Orientation="Horizontal">
+            <TextBlock Text="Sample rate"/>
+
+            <NumberBox 
+                x:Name="NumberBoxSpinButtonPlacementExample"
+                Value="{Binding SampleRate, Mode=TwoWay}"
+                SpinButtonPlacementMode="Compact"
+                SmallChange="1"
+                />
+        </StackPanel>
+        
+        <StackPanel
+            Orientation="Horizontal">
+            <TextBlock Text="Start time:"/>
+
+            <editors:SfTimePicker
+                DisplayTimeFormat="HH:mm:ss"
+                SelectedTime="{Binding StartTime, Mode=TwoWay}"/>
+        </StackPanel>
+
+        <StackPanel
+            Orientation="Horizontal">
+            <TextBlock Text="End time:"/>
+            
+            <editors:SfTimePicker
+                DisplayTimeFormat="HH:mm:ss"
+                SelectedTime="{Binding EndTime, Mode=TwoWay}"/>
+        </StackPanel>
+
+        <Button Content="Start session" Command="{Binding StartSession}"/>
+        <Button Content="Check status" Command="{Binding Status}"/>
+    </StackPanel>
+</Page>

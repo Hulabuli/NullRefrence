@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "null_problem (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "null_problem (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

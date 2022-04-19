@@ -1,0 +1,456 @@
+C:\Software Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigation.xbf
+C:\Software Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigation.xaml
+C:\Software Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.deps.json
+C:\Software Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Software Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Software Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Software Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pri
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.AssemblyReference.cache
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigation.g.i.cs
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigation.g.cs
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigation.xaml
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigation.xbf
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfoInputs.cache
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfo.cs
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CoreCompileInputs.cache
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Software Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xbf
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xaml
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.deps.json
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pri
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\CoMCU_Interface.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\MemoryBlocks.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.dll
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.pdb
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.pdb
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\CoMCU_Interface.pdb
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.pdb
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\MemoryBlocks.pdb
+C:\Software_Projects\EVP2G_App\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.pdb
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.AssemblyReference.cache
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.i.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xaml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xbf
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfoInputs.cache
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfo.cs
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CoreCompileInputs.cache
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CopyComplete
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactions.pri.xml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactivity.pri.xml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Chart.WinUI.pri.xml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Core.WinUI.pri.xml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Editors.WinUI.pri.xml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Software_Projects\EVP2G_App\GUI\obj\Debug\net6.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.deps.json
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pri
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.AssemblyReference.cache
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.i.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xaml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xbf
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfoInputs.cache
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfo.cs
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CoreCompileInputs.cache
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CopyComplete
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Chart.WinUI.pri.xml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Core.WinUI.pri.xml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Editors.WinUI.pri.xml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Users\BBE\Desktop\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.deps.json
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pri
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.AssemblyReference.cache
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.i.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xaml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xbf
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfoInputs.cache
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfo.cs
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CoreCompileInputs.cache
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CopyComplete
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Chart.WinUI.pri.xml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Core.WinUI.pri.xml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Editors.WinUI.pri.xml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\refint\GUI.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Users\mls\Downloads\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\MainNavigationWindow.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ChartPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\ControlCenterPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\GroupStatisticsPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\HomePage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SensorValuePage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControlPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChannelBlockUC.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI\UserControls\ChartUC.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.deps.json
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\GUI.pri
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SampleCore.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\SessionCore.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Common.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\bin\Debug\net6.0-windows10.0.19041.0\Utility.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.AssemblyReference.cache
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.i.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xaml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MainNavigationWindow.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ChartPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\ControlCenterPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\GroupStatisticsPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\HomePage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SensorValuePage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControlPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Pages\SessionControl\AdvancedSessionPage.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChannelBlockUC.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\UserControls\ChartUC.xbf
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfoInputs.cache
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.AssemblyInfo.cs
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CoreCompileInputs.cache
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.csproj.CopyComplete
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactions.pri.xml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Microsoft.Xaml.Interactivity.pri.xml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Chart.WinUI.pri.xml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Core.WinUI.pri.xml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\Syncfusion.Editors.WinUI.pri.xml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\ref\GUI.dll
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\GUI.pdb
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Users\BBE\Desktop\Null problem2\Null problem\null_problem\GUI\obj\Debug\net6.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
